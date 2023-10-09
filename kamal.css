@@ -147,7 +147,7 @@ nav .hamb{
 	top: 60px;
 	z-index: 5;
 	background: transparent;
-	position: fixed;
+	position: absolute;
 	cursor: pointer;
 	display: none;
 
